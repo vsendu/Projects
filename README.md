@@ -1,4 +1,4 @@
-# Projects by Senturan Viraganathan
-Data Science/Data Analysis Projects 
+
+# Data Science/Data Analysis Projects by Senturan Viraganathan
 
 Titanic Exploratory Data Analysis
